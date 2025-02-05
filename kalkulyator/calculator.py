@@ -33,7 +33,7 @@ def kalkulyator():
     def asosiy_menyu():
         clear()
         put_text("Sodda kalkulyator")
-        put_buttons(["Qo'shish", "Ayirish", "Ko'paytirish", "Ayirish"], onclick=amalni_bajar)
+        put_buttons(["Qo'shish", "Ayirish", "Ko'paytirish", "Bo'lish"], onclick=amalni_bajar)
 
     asosiy_menyu()
 
